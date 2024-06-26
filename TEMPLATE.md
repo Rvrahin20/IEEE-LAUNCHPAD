@@ -1,8 +1,13 @@
 # Full Name 
-
+Rahin R V
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+>I am Rahin R V and am eager to start my career in IT field. My qualifications and skills align well with the job requirements.
+
+I graduated with a Bachelor of Engineering in Computer Science from Mar Ephraem College of Engineering and Technology in 2022 with a CGPA of 7.69. Additionally, I have completed internships in Dotnet at I Primed Technologies and in Java Full Stack Development at Kompetenz Technologies.
+
+I am technicaly proficient in HTML, CSS, Bootstrap, Reactjs, SQL, Java, C#, Asp.net.
+
 
 
 ## Portfolio Highlights
@@ -11,8 +16,13 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **MEDICAL CONDITION IMAGE SEARCH AND VIEWER**  | Developed a secure medical report management system using Java J2EE. The system ensures the 
+confidentiality of patient data by implementing user access control for authorized medical 
+personnel.
+This facilitates secure report retrieval for treatment purposes. The access control feature ensures 
+that only authorized personnel can access the patient reports, making the system more secure and 
+reliable                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| ****  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 
