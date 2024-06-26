@@ -4,7 +4,7 @@ Rahin R V
 
 >I am Rahin R V and am eager to start my career in IT field. My qualifications and skills align well with the job requirements.
 
-I graduated with a Bachelor of Engineering in Computer Science from Mar Ephraem College of Engineering and Technology in 2022 with a CGPA of 7.69. Additionally, I have completed internships in Dotnet at I Primed Technologies and in Java Full Stack Development at Kompetenz Technologies.
+I graduated with a Bachelor of Engineering in Computer Science from Mar Ephraem College of Engineering and Technology in 2022 with a CGPA of 7.69. Additionally, I have completed internships in Dotnet at I Primed Technologies and in Java Full Stack Development at Kompetenz Technologies. 
 
 I am technicaly proficient in HTML, CSS, Bootstrap, Reactjs, SQL, Java, C#, Asp.net.
 
